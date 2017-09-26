@@ -1,0 +1,24 @@
+{
+  "name": "bkwdictionarytest",
+  "version": "0.0.1",
+  "description": "BKW-LEXICON",
+  "main": "index.js",
+  "scripts": {
+    "compile" : "node_modules/.bin/nearleyc parser-ci-mwe/bkwgrammar.ne > bkwparser.js",
+    "test": "node_modules/.bin/nearley-test bkwparser.js < parser-ci-mwe/bkwdictionary.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fauxneticien/bkwdictionarytest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fauxneticien/bkwdictionarytest/issues"
+  },
+  "homepage": "https://github.com/fauxneticien/bkwdictionarytest#readme",
+  "dependencies": {
+    "moo": "^0.4.3",
+    "nearley": "^2.11.0"
+  }
+}

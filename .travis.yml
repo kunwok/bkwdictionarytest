@@ -1,0 +1,17 @@
+language: node_js
+
+node_js:
+  - "node"
+
+install:
+  # Will install moo and nearley on the CI server
+  # see 'dependencies' listed in package.json
+  - npm install
+
+before_script:
+  # Runs 'compile' script listed in package.json
+  - npm run compile
+
+script:
+  # Runs 'test' script (same as 'npm run test') listed in package.json
+  - npm test
