@@ -8,6 +8,7 @@
 \ng said with a high or rising pitch/intonation
 \dt 28/Aug/2007
 \xx Test
+\yy Test
 
 \lx aba
 \ps interj.
