@@ -3,7 +3,15 @@ from xml.etree.ElementTree import ElementTree
 from nltk.toolbox import ToolboxData
 from nltk.util import elementtree_indent
 
-lexicon = ToolboxData('bkwdictionarytest.txt').parse()
+grammar = r"""
+      sense:    {<sn><ps|ge|re|de>*<examples>?}
+      senses:   {<sense>+}
+      example:  {<xv><xe>}
+      examples: {<example>+}
+      record:   {<lx><pr>?<sense>+<dt>}
+    """
+
+lexicon = ToolboxData('bkwdictionarytest.txt').parse(grammar)
 elementtree_indent(lexicon)
 tree = ElementTree(lexicon)
 
