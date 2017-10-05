@@ -283,3 +283,120 @@ Anyirrbarala and Warrkwarrk (joint) clans are upstream (from this place).
 \de Two large boulders on the side of the river valley cliff face on the west bank of Goomadeer [Kumadderr] river near Kunyikuymi. These represent two ancestral Dreaming dogs Yenemarrbara and Nakorrmohkorrmo. Many Kunwinjku dogs today are given these names. The site is a djang (Dreaming site) and part of the Kabbari complex.
 \sd placename
 \dt 19/Jun/2015
+
+\lx kordang
+\pr man-
+\ps n.
+\ge spirit.power
+\re spiritual power
+\re magical power
+\re supernatural power
+\de Supernatural power, mainly to heal but also to be able to see spirit beings or to compose new songs through supernatural revelation.
+\xv Kunkudji yoy kore kurralk wanjh mankordang birriwong wayahwayarra.
+\xe While he lay on the grass asleep the ghosts gave him the power to be a clever man.
+\xv Narin minj birribekkayinj kamkadjuy mankordang kunrak.
+\xe The snakes didn't hear the magical fire approaching.
+\dt 13/Oct/2003
+
+\lx korlokkorlo
+\pr an-
+\pr man-
+\ps n.
+\sn 1
+\ge ghost.gum
+\re ghost gum
+\re fi:Corymbia_bella
+\de Ghost gum.
+\sn 2
+\ge bloodwood.sp
+\re large-leafed cabbage gum
+\re fi:Corymbia_grandifolia
+\de large-leafed cabbage gum
+\xv Njamed mak kure korlokkorlo kono ka-ngun. Nakka yi-na ngokkoyi dakahdahkendoy.
+\xe The bees also eat the [nectar] of white-barked gum tree flowers. Look, you can see it has already filled up the hive [with nectar].
+\ng The illustrative sentence shows the name of this tree without a noun class prefix as the speaker is a Kune/Dangbon speaker and Dangbon does not use n. This usage has influenced Kune as in the above example.
+\sc fi:Corymbia_grandifolia, fi:Corymbia_bella
+\uv Djnj, E
+\ur I= man-korlkkorlk
+\sd plant
+\so Ruby Bilindja
+\dt 22/Jun/2007
+
+\lx koroyil
+\ps n.
+\sd material_culture
+\sn 1
+\de dividing line used in artwork to segment a painting.
+\xv Koroyil bim-ken.
+\xe A dividing line as used in paintings.
+\sn 2
+\de ceremonial harness made from strands of acacia string which crosses over the chest and down the
+back. Used in wubarr ceremony.
+\xv Koroyil birri-djongburrinj Wubarr-ken, birri-koyhbomeng 'koyhbo, koyhbo, koyhbo'.
+\xe They used to put on ceremonial harnesses for the Wubarr ceremony and call out 'koyhbo, koyhbo,
+koyhbo'.
+\dt 13/Oct/2003
+
+\lx koynguneng
+\pr nga-
+\ps interj.
+\sn 1
+\de 'oh my goodness how delicious', 'yum yum'.
+\sn 2
+\de expression of affection
+
+\lx Kudjaldordo
+\ps prop. n.
+\sd placename
+\de place in Barrbinj clan estate east of Marrkolidjban on a large creek. Seasonal camp for fishing.
+\dt 13/Oct/2003
+
+
+\lx Kunwinjku
+\ps n.
+\ge language.name
+\re language name
+\de language name for dialect of Bininj Kunwok with the largest number of speakers
+\xv Bedda karrikad Kunwinjku nawu kun-kerlk kabirri-wokdi, la ngad kun-rayek ngarri-wokdi.
+\xe Those people to the west speak fv:Kunwinjku which is the 'soft' dialect but we [Kuninjku] speak the 'hard' dialect.
+\ee Each dialect group in Bininj Kunwok often has its own name for each of the other language varieties in the Bininj Kunwok dialect
+chain. Kunwinjku speakers refer to their variety by this label fvKunwinjku. Kuninjku speakers may refer to it as fv:Kunrinjku or
+fv:Kunkerlk. Kune speakers call it fv:Kundangburddjikaberrk. Kundedjnjenghmi speakers refer to Kunwinjku as fv:Kundangyohmi.
+\sd metalinguistic
+
+\lx kunj
+\ps n.
+\sd mammal
+\de generic term for all macropods/kangaroos.
+\ee Each species of macropod has a seperate name for the male and female. There is also a special verb
+which describes the running or hopping for male and female of each kangaroo species . These are as
+follows: Karndakidj-fv:ka-mawudme Karndayh- fv:ka-djarrwahme Wolerrk- fv:ka-murlbadme
+Karlkberd- fv:ka-njedjme Kornobolo- fv:ka-lurlhlurlme Na-djanem and Djukerre- same as for wolerrk.
+\ee REM = kuwenj
+\dt 27/Feb/2006
+
+\lx warddahwarddahme
+\ps v.i.
+\de wobbling motion, move quickly in zigzag.
+\xv Bu djenj 'lure' ka-nan ka-warddahwarddahme, ka-ngun.
+\xe If a fish sees the lure wobbling from side to side, it will eat (bite) it.
+\xv Yiman nganabbarru ka-berd-warddahwarddahme.
+\xe Just like a buffaloe's tail jigging from side to side.
+
+\lx wardi
+\va warde
+\ps modal
+\sn 1
+\de otherwise, lest (apprehensional or adversative senses— usually referring to an undesirable outcome)
+\xv Yi-barnamen warde duruk ka-ngun.
+\xe Hang it up otherwise the dog will eat it.
+\pdn kk = marndi
+\sn 2
+\ps prop.
+\ge proposition
+\re propositional
+\de A propositional marker 'just (perform action)...'
+\xv Wardi yim-ray yi-nan
+\xe Come over here and have a look.
+\dt 12/Jun/2006
+
