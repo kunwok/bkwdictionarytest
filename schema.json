@@ -1,0 +1,32 @@
+{
+	"de" : {
+		"description" : "Definition"
+	},
+
+	"dt" : {
+		"description" : "Date modified"
+	},
+
+	"ge" : {
+		"description" : "English gloss"
+	},
+
+	"lx" : {
+		"description" : "Lexeme"
+	},
+
+	"ng" : {
+		"description" : "Grammatical note"
+	},	
+
+	"ps" : {
+		"description" : "Part of speech",
+		"enum" : [
+			"interj."
+		]
+	},
+
+	"re" : {
+		"description" : "English reversal"
+	}
+}

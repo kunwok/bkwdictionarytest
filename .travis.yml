@@ -3,7 +3,7 @@ matrix:
     - language: node_js
       node_js: "node"
       install: "npm install"
-      before_script: "npm run compile"
+      before_script: "npm run compile && npm run tokenize"
       script: "npm test"
 
     - language: python
