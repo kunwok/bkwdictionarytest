@@ -1,0 +1,402 @@
+\lx a
+\ps interj.
+\ge INTERJ
+\re what?
+\de Hey?
+\de What was that?
+\de What did you say?
+\ng said with a high or rising pitch/intonation
+\dt 28/Aug/2007
+
+\lx aba
+\ps interj.
+\de Oh, oh no, the thing is, no way (conveys that the speaker is shocked or wants to contradict something that has been said).
+\xv "Aba, yaw kinga nganang. Marndi wurdyaw kayawbaye kadberre warreh," yimeng ngalbu Ngalwakadj bedberre.
+\xe “Oh, I saw a young crocodile. It might bite our kids” Ngalwakadj told them.
+\xv "Kandadju kundad dja ngamarrwedoweng." "Aba, minj won, ngaye mak ngamarrwedoweng."
+\xe "Give me a [turtle] leg, because I'm hungry” “No way. I can't give you any. I'm hungry too." 
+\so Manakgu, Andrew, ‘Bu Ngurriborlhme Kunwinjku: Learning Kunwinjku’, Kunwinjku Language Centre, Gunbalanya, 1994
+\id DK, entered master file by MG
+\dt 13/Aug/2016
+
+\lx Abamuli
+\ps place n.
+\re place name in Kumadderr river region
+\de Fishing, swimming and camping place on the Goomadeer River about 7km upstream from Mamadawerre outstation. There are many fish in the clear water, including barramundi, sooty grunter and river saw-fish as well as freshwater crocodiles.
+\sd placename
+\dt 19/Jun/2015
+
+\lx adjbud
+\va wadjbud
+\ps n
+\re sand
+\re beach
+\de Beach, sand
+\xv Kore manyunkurr, adjbud kayo.
+\xe On the island, there is a beach.
+\xv Wurruldja  manyunkurrbuyika, ya Wurruldja bolknang then kumwam, koluy wanjh kumwam wadjbudadjbud, wanjh djardahmeng wanjh stuck yimeng kure darnki kurrurla kahbun kure wadjbud Inyarraguluj kumekke nawu namorrorddo kahdi ya.
+\xe At Wurruldja, another island [Grant Island], yeah Wurruldja [the fv:namorrorddo] looked back [towards Grant Island] and then continued going down along the beach and then become stuck, frozen as rock near where the waves strike him on the beach there at Inyarraguludj, that’s where the Namorrorddo is. 
+\so Wildflower Band, ‘Galiwin’ku’
+\ur Mawng / Iwaidja = ajput / ajbud.
+\id DK, MG
+\dt 13/Aug/2016
+
+\lx adjuh
+\va adju
+\ps interj.
+\ge maybe
+\re maybe
+\re who knows
+\sn 1
+\de is it?; maybe; I don't know
+\sn 2
+\de said after a joke which provides mild embarrassment to the hearer
+\bw Iwaidja fv:aju 'it-lies', 'it is', 'it exists'.
+\dt 29/Mar/2007
+
+\lx alabbanjdja
+\va malabbanjdja
+\ps n.
+\ge Grewia.spp.
+\re fi:Grewia_xanthopetala
+\re fi:Grewia_multiflora
+\de Kind of shrub.
+\sc Grewia xanthopetala, Grewia multiflora
+\ee Both good for firesticks (fire drills). The bark strips of both species can be rolled
+into string.
+\ur Maung, Iwaidja, Amurdak= alabanjdja
+\sd plants
+\dt 15/Jul/2008
+
+\lx albun
+\ps n.
+\ge plant.sp.
+\re fi:Marsdenia viridifloria
+\re plant name
+\de kind of plant
+\xv Albun anme kakarrme karrimang bangkerreng, yiman kayime Balanda bobbo ngurrikarrme.
+\xe fi:Marsdenia_viridifloria has a fruit which we get in the late wet. It's like that fruit
+you white people have, pawpaw.
+\sc Marsdenia viridifloria
+\sd plant
+\uv Djnj
+\sd plant
+\dt 29/Mar/2007
+
+\lx Alkidjdjirrwan
+\va Ngalkidjdjirrwan, Alkidjirrwan
+\ps prop. n.
+\ge place_name
+\re place on Alligator River
+\de Place on the western side of the middle reaches of the East Alligator River associated with a stringybark fi:djang or sacred site.
+\xv Kabirriyime dolobbo djang bad fi:really kunngey Alkidjdjirrwan. Kabolkngeyyo warridj.
+\xe They refer to it as the stringybark dreaming place but its real name is Alkidjdjirrwan. The place also has a proper name.
+\sd placename
+\dt 22/Aug/2007
+
+\lx alngayakmi
+\ps n.
+\ge Ubarr.messenger
+\re messenger for Ubarr ceremony
+\re Ubarr ceremony messenger
+\de Ceremonial messenger in the Ubarr ceremony who travels to a distant place to bring groups of people to the ceremony.
+\ee In the Kunabibi ceremony, this person is called fv:kakkawarr. Note: these words are in the public domain.
+\sd ceremony
+\dt 29/Mar/2007
+
+\lx alwalngurru
+\ps n.
+\ge lizard.sp.
+\re Chameleon dragon
+\re fi:Chelosania_brunnea
+\de Chameleon dragon
+\sc Chelosania brunnea
+\uv Djnj
+\ur E= walwalngurru, I= ngalbangurru
+\pdn kk= kerngborlh
+\sd reptiles/amphib.
+\dt 26/Aug/2012
+
+\lx Amurdak
+\va Mamurdak
+\ps prop. n.
+\ge language.name
+\re language name
+\de The Amurdak language.
+\ee A dialect of Amurdak, now extinct, was spoken by coastal Ulbu people in the Ardahaj (Pawpaw Beach) region. This variety of Amurdak is called Urrirrk or Wurrirrkwurrirrk
+\sd metalinguistic
+\bb Handelsmann, R. (1991). Towards a description of Amurdak: A language of northern Australia. Unpublished BA (Hons) thesis,
+University of Melbourne, Melbourne.
+\uv W, Djnj, Kdj
+\ur I= Mamurdak
+\sy Wurradjbak
+\dt 17/Jun/2007
+
+\lx Anbiruk Karredjdjamdi
+\ps place n.
+\re place name in Kumadderr river region
+\de Area possibly at the top of a gorge in the headwaters of the Goomadeer River, near Kirrbekirrbendulk around 24km south (upstream) of the confluence of the ‘Gumardir’ and ‘Goomadeer’ branches of the Goomadeer River. Literally means ‘The place of the Blepharocarya depauperata tree.’ (Ka-dedj-djamdi ‘it-base-located’).
+\sd placename
+\dt 21/Jun/2015
+
+\lx anbirrmulu
+\ps n.
+\ge shovel.spear
+\re spear, shovel spear
+\de Shovel spear type with a long stone blade for the head. These may be the predecessors of the famous ‘shovel-nosed’ spears of Arnhem Land which have heads made of iron or other metal originally obtained from the Macassans. The stone blade is attached to the shaft via a socket made of fibre string ironwood resin and beeswax.
+\dt 06/Jul/2013
+
+\lx Anborlun
+\ps place n.
+\re place name in Kumadderr river region
+\de River site in the Maburrinj estate. Fish go upstream from here. 
+\sd placename
+\dt 20/Jun/2015
+
+\lx Anbuddu Baniworrinj
+\ps prop. n.
+\ge place.n.
+\re place in Djalbangurrk estate
+\de Place name just south of Makkalarl in the Djalbangurrk estate.
+\ee This is a place for hunting freshwater crocodiles.
+\sd placename
+\dt 23/Apr/2007
+
+\lx Andale Abayeng
+\va Mandale Ngabayeng
+\ps interj.
+\ge clan_lect
+\re clan lect interjection for the Warddjak patriclan (Kundjikurdubuk lineage)
+\re Warddjak clan lect (Kundjikurdubuk lineage)
+\de Clan lect or fv:kun-dangwok interjection for the Warddjak patriclan (Kundjikurdubuk lineage)
+\xv A: Na-ngale nuye kun-red Muri? B: Andale abayeng.
+\xe A: Who owns the place called Muri?  B: Warddjak clan [The patriclan which uses the interjection] fi:andale_abayeng [i.e.
+pragmatically infer the Kundjikurdubuk lineage of the Warddjak patriclan]
+\sd kun-dangwok
+\dt 22/Aug/2007
+
+\lx Andjalabanh
+\va Mandjalabanh
+\ps prop.n.
+\ge place name
+\re placename
+\de Place in Ngolkwarre-Kubumi estate.
+\sd placename
+\dt 08/Jan/2014
+
+\lx Animirlokrlok
+\ps place n.
+\re place name in Kumadderr river region
+\de A namorrorddo spirit site on a flat rocky plain on the upper Goomadeer River. The spirit inhabits a small column of rock, and this site and part of the surrounding plain are referred to as Animirloklok. The area is in the arc formed by the confluence of the Goomadeer and Gumardir rivers, not far from the confluence itself. Both the laterals in this word are retroflexed and so the word is written Ani-mi-rlok-rlok.
+\sd placename
+\dt 18/Jun/2015
+
+\lx Ankikkalarr
+\ps prop.n.
+\ge place name
+\re placename
+\de Place in Ngolkwarre estate.
+\sd placename
+\dt 08/Jan/2014
+
+\lx Anlolorr
+\ps prop.n.
+\ge place name
+\re placename
+\de Place just west of Mibarlwarra on the Liverpool River and site of the Wubarr ceremony.
+\xv Anlolorr wubarr kumekke ka-o.
+\xe At Anlolorr there is a wubarr ceremony place.
+\sd placename
+\dt 31/Mar/2013
+
+\lx Anyirrbarala
+\ps prop. n.
+\ge clan.name
+\re clan name
+\de a duwa moiety Kunibidji language speaking patriclan in the lower Liverpool River district
+\xv Konda ka-bolkngeyyo Djawundu Durhduhkeng nawu Kunibidji kabirri-ngeybun Kangkarlangarra Namardba
+Kayelarrába. Manengkarerrbe kanjdji, Anyirrbarala Warrkwarrk kaddum.
+\xe This place is called Djawundu Durhduhkeng [in Bininj Kunwok, which literally means 'white-breasted sea eagle drilled a hole'] and the
+Kunibidji people call it [in Ndjébbana language] Kangkarlangarra Namardba Kayelarrába. Manengkarerrbe clan is downstream and
+Anyirrbarala and Warrkwarrk (joint) clans are upstream (from this place).
+\ee Anyirrbarala has a very close connection and many jointly shared sites with the Warrkwarrk clan.
+\sd clan_name
+\so Dean Yibarbuk, Liverpool River site survey 2005
+\dt 17/Jun/2007
+
+\lx arda
+\ps interj.
+\ge OK.then
+\re OK then!
+\de OK then, all right?
+\ng a propositional interjection marking the completion of a speaker's extended turn of talk
+\bw probably a loan from Iwaidja
+\dt 05/Oct/2007
+
+\lx arre
+\va ngarre
+\mr (ng)arr+re > (ng)arre '1,2 minimal+go'
+\ps v.i.
+\ge let's.go
+\re go, let's go (you and me)
+\de let's go (you singular and me)
+\ng first person dual inclusive (1,2 minimal)
+\uv Djnj, Kdj
+\uv I, E = ngarre, W = ngarrre [ngarr+re]
+\dt 05/Oct/2007
+
+\lx Arrkuluk
+\ps place n.
+\re place name in Birrirddak Creek region
+\sn 1
+\re place name
+\de Name of the hill on the southern side of Gunbalanya township in Mengerrdji language country.
+\sn 2
+\re place name in the Gunbalanya township
+\de Hill on the western side of the entrance to Birraduk [Birrirddak] Creek valley, directly south of the Gunbalanya-Nabarlek road. This site has the same name as the hill at Gunbalanya and is therefore sometimes called ‘Arrkuluk number two’. \sd placename \dt 13/Jun/2015
+
+\lx awurd
+\ps interj.
+\ge oh.my.dear
+\re goodness me, 'oh how dear it is'
+\de an interjection used to express emotional attachment, dearness
+\xv Awurd, mayh namekke ngan-kodjborledke Kawk Kabim Djang
+\xe So dear to me is that bird, its call reminds me of the sacred night heron dreaming.
+\sy worro
+\so Nabarlek Band song (Terrah Guymala)
+\uv W
+\ur I= worro
+\dt 05/Oct/2007
+
+\lx ay
+\ps interj.
+\ge hey
+\re hey
+\de hey! (attention getter)
+\dt 05/Oct/2007
+
+\lx Ayendemarrbara
+\va Yenemarrbara
+\va Yenemarrabara
+\ps place n.
+\re place name in Kumadderr river region
+\de Two large boulders on the side of the river valley cliff face on the west bank of Goomadeer [Kumadderr] river near Kunyikuymi. These represent two ancestral Dreaming dogs Yenemarrbara and Nakorrmohkorrmo. Many Kunwinjku dogs today are given these names. The site is a djang (Dreaming site) and part of the Kabbari complex.
+\sd placename
+\dt 19/Jun/2015
+
+\lx kordang
+\pr man-
+\ps n.
+\ge spirit.power
+\re spiritual power
+\re magical power
+\re supernatural power
+\de Supernatural power, mainly to heal but also to be able to see spirit beings or to compose new songs through supernatural revelation.
+\xv Kunkudji yoy kore kurralk wanjh mankordang birriwong wayahwayarra.
+\xe While he lay on the grass asleep the ghosts gave him the power to be a clever man.
+\xv Narin minj birribekkayinj kamkadjuy mankordang kunrak.
+\xe The snakes didn't hear the magical fire approaching.
+\dt 13/Oct/2003
+
+\lx korlokkorlo
+\pr an-
+\pr man-
+\ps n.
+\sn 1
+\ge ghost.gum
+\re ghost gum
+\re fi:Corymbia_bella
+\de Ghost gum.
+\sn 2
+\ge bloodwood.sp
+\re large-leafed cabbage gum
+\re fi:Corymbia_grandifolia
+\de large-leafed cabbage gum
+\xv Njamed mak kure korlokkorlo kono ka-ngun. Nakka yi-na ngokkoyi dakahdahkendoy.
+\xe The bees also eat the [nectar] of white-barked gum tree flowers. Look, you can see it has already filled up the hive [with nectar].
+\ng The illustrative sentence shows the name of this tree without a noun class prefix as the speaker is a Kune/Dangbon speaker and Dangbon does not use n. This usage has influenced Kune as in the above example.
+\sc fi:Corymbia_grandifolia, fi:Corymbia_bella
+\uv Djnj, E
+\ur I= man-korlkkorlk
+\sd plant
+\so Ruby Bilindja
+\dt 22/Jun/2007
+
+\lx koroyil
+\ps n.
+\sd material_culture
+\sn 1
+\de dividing line used in artwork to segment a painting.
+\xv Koroyil bim-ken.
+\xe A dividing line as used in paintings.
+\sn 2
+\de ceremonial harness made from strands of acacia string which crosses over the chest and down the
+back. Used in wubarr ceremony.
+\xv Koroyil birri-djongburrinj Wubarr-ken, birri-koyhbomeng 'koyhbo, koyhbo, koyhbo'.
+\xe They used to put on ceremonial harnesses for the Wubarr ceremony and call out 'koyhbo, koyhbo,
+koyhbo'.
+\dt 13/Oct/2003
+
+\lx koynguneng
+\pr nga-
+\ps interj.
+\sn 1
+\de 'oh my goodness how delicious', 'yum yum'.
+\sn 2
+\de expression of affection
+
+\lx Kudjaldordo
+\ps prop. n.
+\sd placename
+\de place in Barrbinj clan estate east of Marrkolidjban on a large creek. Seasonal camp for fishing.
+\dt 13/Oct/2003
+
+
+\lx Kunwinjku
+\ps n.
+\ge language.name
+\re language name
+\de language name for dialect of Bininj Kunwok with the largest number of speakers
+\xv Bedda karrikad Kunwinjku nawu kun-kerlk kabirri-wokdi, la ngad kun-rayek ngarri-wokdi.
+\xe Those people to the west speak fv:Kunwinjku which is the 'soft' dialect but we [Kuninjku] speak the 'hard' dialect.
+\ee Each dialect group in Bininj Kunwok often has its own name for each of the other language varieties in the Bininj Kunwok dialect
+chain. Kunwinjku speakers refer to their variety by this label fvKunwinjku. Kuninjku speakers may refer to it as fv:Kunrinjku or
+fv:Kunkerlk. Kune speakers call it fv:Kundangburddjikaberrk. Kundedjnjenghmi speakers refer to Kunwinjku as fv:Kundangyohmi.
+\sd metalinguistic
+
+\lx kunj
+\ps n.
+\sd mammal
+\de generic term for all macropods/kangaroos.
+\ee Each species of macropod has a seperate name for the male and female. There is also a special verb
+which describes the running or hopping for male and female of each kangaroo species . These are as
+follows: Karndakidj-fv:ka-mawudme Karndayh- fv:ka-djarrwahme Wolerrk- fv:ka-murlbadme
+Karlkberd- fv:ka-njedjme Kornobolo- fv:ka-lurlhlurlme Na-djanem and Djukerre- same as for wolerrk.
+\ee REM = kuwenj
+\dt 27/Feb/2006
+
+\lx warddahwarddahme
+\ps v.i.
+\de wobbling motion, move quickly in zigzag.
+\xv Bu djenj 'lure' ka-nan ka-warddahwarddahme, ka-ngun.
+\xe If a fish sees the lure wobbling from side to side, it will eat (bite) it.
+\xv Yiman nganabbarru ka-berd-warddahwarddahme.
+\xe Just like a buffaloe's tail jigging from side to side.
+
+\lx wardi
+\va warde
+\ps modal
+\sn 1
+\de otherwise, lest (apprehensional or adversative senses— usually referring to an undesirable outcome)
+\xv Yi-barnamen warde duruk ka-ngun.
+\xe Hang it up otherwise the dog will eat it.
+\pdn kk = marndi
+\sn 2
+\ps prop.
+\ge proposition
+\re propositional
+\de A propositional marker 'just (perform action)...'
+\xv Wardi yim-ray yi-nan
+\xe Come over here and have a look.
+\dt 12/Jun/2006
+
