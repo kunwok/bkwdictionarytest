@@ -1,6 +1,5 @@
 \lx a
 \ps interj.
-\ge INTERJ
 \re what?
 \de Hey?
 \de What was that?
